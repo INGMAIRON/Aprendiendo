@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hola Soy Mairon Jimenez, me gusta el fútbol, la tecnología y las motos, Gracias.
+=======
+Hola Soy Mairon Jimenez, me gusta el fútbol, la tecnología y las motos, Gracias a Dios.
+
+FIN
+>>>>>>> desarrollo

@@ -1,2 +1,2 @@
-Esto es una prueba de Merch
-La linea 2
+<<<<<<< HEAD
+Esto es una prueba de Merge
